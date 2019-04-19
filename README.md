@@ -27,7 +27,7 @@ Assign the below variable `number` to the number `42` by replacing `None` with `
 
 
 ```python
-number = None
+number = 42
 number
 ```
 
@@ -35,7 +35,7 @@ Next, like the above, reassign the `flatiron_mantra` variable with the string `"
 
 
 ```python
-flatiron_mantra = None
+flatiron_mantra = "Learn. Love. Code."
 flatiron_mantra
 ```
 
